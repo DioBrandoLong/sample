@@ -8352,8 +8352,67 @@ button.close {
 
 /* universal */
 
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+}
+
+footer a {
+  color: green;
+}
+
+footer a:hover {
+  color: green;
+}
+
+footer small {
+  float: right;
+}
+
+footer ul {
+  float: top;
+  list-style: none;
+}
+
+footer ul li {
+  float: left;
+  margin-left: 15px;
+}
+
+footer img.brand-icon {
+  width: 17px;
+  height: 17px;
+}
+
+footer .slogon {
+  font-size: 13px;
+  font-weight: bold;
+}
+
 body {
   padding-top: 60px;
+}
+
+body div {
+  color: red;
+}
+
+body h1 {
+  margin-top: 10px;
+}
+
+body a {
+  color: white;
+}
+
+body a:hover {
+  color: blue;
+}
+
+body a:hover {
+  color: blue;
 }
 
 section {
